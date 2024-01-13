@@ -1,2 +1,2 @@
 # JavaScript
-javaScript 知识点整理
+javaScript相关知识点整理
