@@ -80,4 +80,3 @@ setInterval(timer => {
 
 `requestAnimationFrame` 自带函数节流功能，基本可以保证在 16.6 毫秒内只执行一次（不掉帧的情况下），并且该函数的延时效果是精确的，没有其他定时器时间不准的问题，当然你也可以通过该函数来实现 `setTimeout`。
 With its intrinsic throttling feature, 'requestAnimationFrame' can largely ensure only one execution within 16.6 milliseconds, provided that there are no frame drop issues. Moreover, this function's delay effect is highly accurate, without the common timing issues of other timers, and it can also be used to serve the purpose of setTimeout.
-
