@@ -61,6 +61,7 @@ function decode(message){
   let row = 0; // current row index
   let col = 0; // current column index
   let directionY = 1;  // to update the vertial direction.
+  let result = "";
 
   while (col < cols && row > -1 && row < rows){
     // meaing this column is available
