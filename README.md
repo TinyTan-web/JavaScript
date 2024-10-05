@@ -1,2 +1,2 @@
 # JavaScript
-javaScript相关知识点整理
+Compilation of javaScript related knowledge points
